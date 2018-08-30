@@ -1785,7 +1785,6 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		/* color: #426B69; */
 		color: #8B2635;
 		font-size: 3.5em;
 	}
@@ -2367,7 +2366,7 @@ input, select, textarea {
 			text-decoration: none;
 			display: inline-block;
 			margin: 0 0 1.6875em 0;
-			padding: 0.35em 0 0 3.5em;
+			padding: 0.35em 2.50em 0 3.5em;
 			position: relative;
 			vertical-align: top;
 			width: 48%;
